@@ -1,0 +1,15 @@
+0,AlgebraLinealI-A
+1,AlgebraLinealI-B
+2,AlgebraLinealI-C
+3,CalculoIntegral-A
+4,CalculoIntegral-B
+5,CalculoIntegral-C
+6,CalculoIntegral-D
+7,CalculodeProbabilidades-A
+8,CalculodeProbabilidades-B
+9,CalculodeProbabilidades-C
+10,FisicaII-A
+11,FisicaII-B
+12,FisicaII-C
+13,FisicaII-D
+14,LogicayTeoriadeConjuntos-A

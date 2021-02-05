@@ -1,0 +1,313 @@
+Horario: AlgebraLinealI-C, CalculoIntegral-B, FisicaII-C
+Horario: CalculoIntegral-B, FisicaII-D, LogicayTeoriadeConjuntos-A, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-B, FisicaII-A, CalculoIntegral-A
+Horario: AlgebraLinealI-B, FisicaII-A, CalculoIntegral-C, CalculodeProbabilidades-C
+Horario: AlgebraLinealI-B, FisicaII-B, CalculoIntegral-B, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-B, CalculoIntegral-A, CalculodeProbabilidades-A, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-A, CalculoIntegral-C
+Horario: AlgebraLinealI-C, CalculoIntegral-A, FisicaII-D, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-B, FisicaII-B, CalculoIntegral-B
+Horario: AlgebraLinealI-C, CalculoIntegral-B, CalculodeProbabilidades-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-B, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-A, AlgebraLinealI-C, CalculoIntegral-A
+Horario: AlgebraLinealI-B, FisicaII-B, CalculoIntegral-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-C, CalculodeProbabilidades-C, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: CalculoIntegral-B, FisicaII-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, CalculoIntegral-B, FisicaII-D, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-C, AlgebraLinealI-C, FisicaII-C, CalculoIntegral-D
+Horario: AlgebraLinealI-C, CalculoIntegral-D, CalculodeProbabilidades-B, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, AlgebraLinealI-C, CalculoIntegral-B, FisicaII-C
+Horario: FisicaII-A, CalculoIntegral-C, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-C, AlgebraLinealI-C, CalculoIntegral-A, FisicaII-D
+Horario: AlgebraLinealI-A, CalculoIntegral-D, CalculodeProbabilidades-C, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculoIntegral-B, FisicaII-D
+Horario: CalculoIntegral-B, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculoIntegral-A, FisicaII-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, CalculoIntegral-D, CalculodeProbabilidades-C, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-D, CalculodeProbabilidades-B, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-B, CalculodeProbabilidades-A, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-B, CalculodeProbabilidades-B, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-A, CalculodeProbabilidades-C, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, CalculoIntegral-A, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, CalculodeProbabilidades-A, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculoIntegral-D, CalculodeProbabilidades-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, AlgebraLinealI-C, FisicaII-B, CalculoIntegral-C
+Horario: FisicaII-C, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: CalculoIntegral-A, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-A, FisicaII-C
+Horario: CalculodeProbabilidades-B, CalculoIntegral-B, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-C, CalculoIntegral-D
+Horario: CalculodeProbabilidades-C, CalculoIntegral-B, FisicaII-C
+Horario: AlgebraLinealI-C, CalculoIntegral-B, FisicaII-D
+Horario: AlgebraLinealI-B, FisicaII-A, CalculoIntegral-A, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-B, FisicaII-B, CalculoIntegral-B
+Horario: CalculodeProbabilidades-C, CalculoIntegral-A, FisicaII-C
+Horario: AlgebraLinealI-B, CalculoIntegral-B, FisicaII-D, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-A, FisicaII-B, CalculoIntegral-D
+Horario: AlgebraLinealI-C, CalculoIntegral-B, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculoIntegral-C, CalculodeProbabilidades-A, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-A, CalculodeProbabilidades-C, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-B, CalculoIntegral-B, FisicaII-C
+Horario: AlgebraLinealI-A, CalculoIntegral-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, FisicaII-A, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, FisicaII-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, CalculoIntegral-B, CalculodeProbabilidades-C, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-A, CalculoIntegral-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, FisicaII-A, CalculoIntegral-C
+Horario: AlgebraLinealI-B, CalculoIntegral-A, FisicaII-C, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-C, CalculoIntegral-B, FisicaII-D
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-B, CalculoIntegral-A, FisicaII-C
+Horario: AlgebraLinealI-B, CalculoIntegral-A, CalculodeProbabilidades-C, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-D, CalculoIntegral-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, CalculoIntegral-A, CalculodeProbabilidades-B, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-A, CalculodeProbabilidades-C, AlgebraLinealI-C, CalculoIntegral-A
+Horario: AlgebraLinealI-A, CalculoIntegral-B, CalculodeProbabilidades-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-C, CalculodeProbabilidades-B, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-B, CalculoIntegral-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, FisicaII-C, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, FisicaII-D
+Horario: CalculodeProbabilidades-B, FisicaII-A, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-C, CalculodeProbabilidades-A, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculodeProbabilidades-C, FisicaII-A, CalculoIntegral-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, FisicaII-D, CalculodeProbabilidades-C
+Horario: AlgebraLinealI-A, FisicaII-B, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, CalculoIntegral-B, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-B, CalculodeProbabilidades-C, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-D, CalculodeProbabilidades-C, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-C, FisicaII-A, CalculoIntegral-D
+Horario: FisicaII-D, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-D, CalculoIntegral-C
+Horario: AlgebraLinealI-A, CalculoIntegral-A, CalculodeProbabilidades-A, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculodeProbabilidades-C, FisicaII-B, CalculoIntegral-D
+Horario: AlgebraLinealI-A, CalculodeProbabilidades-C, FisicaII-B, CalculoIntegral-B
+Horario: AlgebraLinealI-C, CalculoIntegral-D, CalculodeProbabilidades-C, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: CalculoIntegral-A, FisicaII-C
+Horario: FisicaII-D, CalculoIntegral-C, LogicayTeoriadeConjuntos-A, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, FisicaII-A, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, FisicaII-B, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-C, CalculodeProbabilidades-A, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, FisicaII-A, CalculoIntegral-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, CalculoIntegral-B, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-C, CalculoIntegral-B, FisicaII-C
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-B, FisicaII-A, CalculoIntegral-C
+Horario: AlgebraLinealI-C, CalculoIntegral-A, CalculodeProbabilidades-A, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-A, CalculoIntegral-A, LogicayTeoriadeConjuntos-A, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-A, CalculoIntegral-B, FisicaII-C, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-C, FisicaII-D, CalculoIntegral-D
+Horario: AlgebraLinealI-B, CalculoIntegral-C, CalculodeProbabilidades-C, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, FisicaII-A, CalculoIntegral-A
+Horario: AlgebraLinealI-C, CalculoIntegral-D, CalculodeProbabilidades-A, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-B, FisicaII-B, CalculoIntegral-C
+Horario: AlgebraLinealI-B, CalculoIntegral-A, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, CalculodeProbabilidades-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, CalculodeProbabilidades-C, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-C, CalculodeProbabilidades-B, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, CalculodeProbabilidades-B, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, CalculoIntegral-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculoIntegral-B, FisicaII-C, LogicayTeoriadeConjuntos-A, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-B, CalculoIntegral-C, CalculodeProbabilidades-C, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-A, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-C, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-A, CalculoIntegral-C
+Horario: CalculodeProbabilidades-B, FisicaII-C, CalculoIntegral-D
+Horario: AlgebraLinealI-B, CalculoIntegral-B, CalculodeProbabilidades-A, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-B, CalculoIntegral-D
+Horario: CalculodeProbabilidades-B, FisicaII-A, CalculoIntegral-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, FisicaII-B, CalculoIntegral-B, CalculodeProbabilidades-C
+Horario: AlgebraLinealI-A, CalculoIntegral-B, FisicaII-C
+Horario: AlgebraLinealI-A, FisicaII-C, CalculoIntegral-D
+Horario: CalculoIntegral-A, FisicaII-D, LogicayTeoriadeConjuntos-A, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-B, FisicaII-B, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, FisicaII-C, CalculoIntegral-D
+Horario: AlgebraLinealI-A, FisicaII-C, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-C, FisicaII-A, CalculoIntegral-D
+Horario: AlgebraLinealI-C, CalculoIntegral-B, CalculodeProbabilidades-A, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, FisicaII-B, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, CalculoIntegral-C, CalculodeProbabilidades-A, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, CalculoIntegral-A, FisicaII-C
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-B, FisicaII-A, CalculoIntegral-A
+Horario: AlgebraLinealI-B, CalculoIntegral-A, CalculodeProbabilidades-C, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-B, CalculoIntegral-B, CalculodeProbabilidades-A
+Horario: FisicaII-A, CalculoIntegral-C, LogicayTeoriadeConjuntos-A, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-A, CalculoIntegral-C, CalculodeProbabilidades-C, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-B, CalculoIntegral-C
+Horario: CalculodeProbabilidades-C, AlgebraLinealI-C, FisicaII-B, CalculoIntegral-D
+Horario: AlgebraLinealI-C, CalculoIntegral-A, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-A, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-A, CalculoIntegral-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, FisicaII-C
+Horario: AlgebraLinealI-A, FisicaII-B, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, FisicaII-D, CalculoIntegral-C, CalculodeProbabilidades-C
+Horario: AlgebraLinealI-C, CalculoIntegral-D, CalculodeProbabilidades-B, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, AlgebraLinealI-C, FisicaII-A, CalculoIntegral-D
+Horario: FisicaII-D, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-A, CalculodeProbabilidades-B, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-A, FisicaII-C, CalculodeProbabilidades-C
+Horario: FisicaII-B, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculoIntegral-D, CalculodeProbabilidades-A, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, FisicaII-A, CalculoIntegral-C
+Horario: FisicaII-A, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-A, CalculodeProbabilidades-C, FisicaII-C, CalculoIntegral-D
+Horario: AlgebraLinealI-C, CalculoIntegral-D, CalculodeProbabilidades-A, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: LogicayTeoriadeConjuntos-A, FisicaII-D, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-C, CalculoIntegral-A, FisicaII-C
+Horario: AlgebraLinealI-C, CalculoIntegral-A, CalculodeProbabilidades-C, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, FisicaII-B, CalculoIntegral-C
+Horario: CalculodeProbabilidades-B, FisicaII-B, CalculoIntegral-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, FisicaII-A, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculoIntegral-A, CalculodeProbabilidades-C, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculoIntegral-A, FisicaII-D
+Horario: FisicaII-A, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculoIntegral-D, CalculodeProbabilidades-A, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, AlgebraLinealI-C, CalculoIntegral-B, FisicaII-D
+Horario: AlgebraLinealI-A, FisicaII-B, CalculoIntegral-C
+Horario: FisicaII-B, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-B, CalculoIntegral-C, CalculodeProbabilidades-A, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-A, AlgebraLinealI-C, CalculoIntegral-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-D, CalculodeProbabilidades-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-C, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, FisicaII-D, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, CalculodeProbabilidades-C, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, CalculoIntegral-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, FisicaII-A, CalculoIntegral-D
+Horario: FisicaII-B, LogicayTeoriadeConjuntos-A, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: FisicaII-B, CalculoIntegral-B, LogicayTeoriadeConjuntos-A, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-B, FisicaII-A, CalculoIntegral-D
+Horario: AlgebraLinealI-C, FisicaII-B, CalculoIntegral-C, CalculodeProbabilidades-A
+Horario: FisicaII-B, CalculoIntegral-B
+Horario: AlgebraLinealI-C, CalculoIntegral-A, FisicaII-C
+Horario: AlgebraLinealI-B, CalculoIntegral-B, CalculodeProbabilidades-C, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-B, CalculoIntegral-B, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-D, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-B, FisicaII-D, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, FisicaII-B, CalculoIntegral-C, CalculodeProbabilidades-C
+Horario: FisicaII-A, LogicayTeoriadeConjuntos-A, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-A, CalculodeProbabilidades-C, CalculoIntegral-A, FisicaII-C
+Horario: CalculoIntegral-B, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-C, CalculodeProbabilidades-C, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: CalculoIntegral-B, FisicaII-C
+Horario: AlgebraLinealI-B, FisicaII-B, CalculoIntegral-C
+Horario: AlgebraLinealI-A, FisicaII-C, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-D, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, FisicaII-C, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, FisicaII-A, CalculoIntegral-A
+Horario: CalculodeProbabilidades-C, AlgebraLinealI-C, FisicaII-D, CalculoIntegral-D
+Horario: AlgebraLinealI-B, CalculoIntegral-C, CalculodeProbabilidades-B, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, FisicaII-D, CalculoIntegral-D
+Horario: AlgebraLinealI-A, FisicaII-A, CalculoIntegral-A, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, CalculoIntegral-C, CalculodeProbabilidades-C, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-B, CalculoIntegral-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, CalculoIntegral-A, CalculodeProbabilidades-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-C, FisicaII-B, CalculoIntegral-B
+Horario: AlgebraLinealI-C, FisicaII-D, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-C, FisicaII-B, CalculoIntegral-D
+Horario: AlgebraLinealI-C, FisicaII-A, CalculoIntegral-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, CalculoIntegral-A, FisicaII-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-A, CalculoIntegral-D, CalculodeProbabilidades-C, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-A, FisicaII-D
+Horario: AlgebraLinealI-B, FisicaII-A, CalculoIntegral-A, LogicayTeoriadeConjuntos-A
+Horario: CalculoIntegral-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculoIntegral-B, CalculodeProbabilidades-C, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-C, FisicaII-C, CalculoIntegral-D
+Horario: CalculodeProbabilidades-C, FisicaII-A, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-D, CalculodeProbabilidades-C, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-A, CalculodeProbabilidades-A, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, FisicaII-B, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculodeProbabilidades-C, FisicaII-B, CalculoIntegral-C
+Horario: AlgebraLinealI-B, FisicaII-B, CalculoIntegral-C, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-C, AlgebraLinealI-C, FisicaII-A, CalculoIntegral-C
+Horario: CalculoIntegral-A, FisicaII-D, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-A, CalculoIntegral-B, CalculodeProbabilidades-C, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculoIntegral-D, CalculodeProbabilidades-C, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-C, CalculoIntegral-D
+Horario: CalculodeProbabilidades-B, FisicaII-B, CalculoIntegral-C
+Horario: AlgebraLinealI-A, CalculoIntegral-B, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-B, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculodeProbabilidades-C, FisicaII-A, CalculoIntegral-C
+Horario: AlgebraLinealI-A, CalculoIntegral-A, CalculodeProbabilidades-C, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-B, FisicaII-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, FisicaII-A, CalculoIntegral-D
+Horario: AlgebraLinealI-A, FisicaII-B, CalculoIntegral-B, LogicayTeoriadeConjuntos-A
+Horario: CalculoIntegral-A, FisicaII-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, CalculoIntegral-C, CalculodeProbabilidades-A, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculoIntegral-C, CalculodeProbabilidades-A, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, FisicaII-A, CalculoIntegral-C
+Horario: AlgebraLinealI-B, CalculoIntegral-A, CalculodeProbabilidades-B, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, FisicaII-A, CalculoIntegral-A, CalculodeProbabilidades-C
+Horario: AlgebraLinealI-C, FisicaII-B, CalculoIntegral-B, CalculodeProbabilidades-A
+Horario: CalculoIntegral-A, FisicaII-C, LogicayTeoriadeConjuntos-A, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, CalculoIntegral-A, FisicaII-D
+Horario: AlgebraLinealI-A, FisicaII-B, CalculoIntegral-B
+Horario: CalculodeProbabilidades-C, FisicaII-B, CalculoIntegral-B
+Horario: FisicaII-B, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, FisicaII-A, CalculoIntegral-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, CalculodeProbabilidades-B, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-B, CalculoIntegral-C
+Horario: AlgebraLinealI-A, FisicaII-A, CalculoIntegral-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-A, CalculodeProbabilidades-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, FisicaII-B, CalculoIntegral-B
+Horario: AlgebraLinealI-B, FisicaII-B, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, FisicaII-B, CalculoIntegral-D
+Horario: AlgebraLinealI-C, CalculoIntegral-C, CalculodeProbabilidades-A, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-C, FisicaII-B, CalculoIntegral-C
+Horario: AlgebraLinealI-C, FisicaII-C, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-D, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, CalculoIntegral-B, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, FisicaII-B, CalculoIntegral-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, FisicaII-C, CalculodeProbabilidades-C
+Horario: CalculodeProbabilidades-C, AlgebraLinealI-C, FisicaII-D, CalculoIntegral-C
+Horario: FisicaII-A, CalculoIntegral-A, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-B, FisicaII-D, CalculoIntegral-C
+Horario: AlgebraLinealI-C, FisicaII-B, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, FisicaII-A, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculoIntegral-A, FisicaII-C
+Horario: AlgebraLinealI-C, FisicaII-A, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-C, AlgebraLinealI-C, CalculoIntegral-A, FisicaII-C
+Horario: AlgebraLinealI-C, CalculoIntegral-A, CalculodeProbabilidades-B, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, AlgebraLinealI-C, FisicaII-A, CalculoIntegral-C
+Horario: AlgebraLinealI-B, FisicaII-D, CalculoIntegral-C, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-A, FisicaII-A, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, FisicaII-A, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-C, AlgebraLinealI-C, FisicaII-B, CalculoIntegral-B
+Horario: FisicaII-B, CalculoIntegral-C, LogicayTeoriadeConjuntos-A, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-A, CalculoIntegral-C, CalculodeProbabilidades-C, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, FisicaII-A, CalculoIntegral-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculodeProbabilidades-C, FisicaII-A, CalculoIntegral-D
+Horario: AlgebraLinealI-C, FisicaII-B, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: FisicaII-A, CalculoIntegral-A
+Horario: AlgebraLinealI-B, CalculoIntegral-B, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, FisicaII-D, CalculoIntegral-C
+Horario: 
+Horario: AlgebraLinealI-C, CalculoIntegral-B, CalculodeProbabilidades-B, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculoIntegral-A, CalculodeProbabilidades-A, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-B, CalculodeProbabilidades-C, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-C, FisicaII-D, CalculoIntegral-C
+Horario: FisicaII-D, CalculoIntegral-D
+Horario: FisicaII-A, AlgebraLinealI-C, CalculoIntegral-A, CalculodeProbabilidades-A
+Horario: FisicaII-B, CalculoIntegral-D
+Horario: AlgebraLinealI-C, FisicaII-D, CalculoIntegral-C, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-C, FisicaII-A, CalculoIntegral-A
+Horario: AlgebraLinealI-A, CalculodeProbabilidades-C, CalculoIntegral-B, FisicaII-C
+Horario: AlgebraLinealI-C, CalculoIntegral-D, CalculodeProbabilidades-A, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, FisicaII-A, CalculoIntegral-C
+Horario: AlgebraLinealI-C, FisicaII-B, CalculoIntegral-B, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-C, CalculodeProbabilidades-B, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: FisicaII-A, CalculoIntegral-D
+Horario: AlgebraLinealI-A, FisicaII-B, CalculoIntegral-B, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-C, FisicaII-D, CalculoIntegral-C, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-C, CalculoIntegral-A, CalculodeProbabilidades-C, FisicaII-C, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, FisicaII-A, AlgebraLinealI-C, CalculoIntegral-A
+Horario: AlgebraLinealI-B, CalculoIntegral-A, FisicaII-D, CalculodeProbabilidades-A
+Horario: FisicaII-C, LogicayTeoriadeConjuntos-A, CalculoIntegral-D, CalculodeProbabilidades-A
+Horario: AlgebraLinealI-B, CalculoIntegral-A, FisicaII-D, CalculodeProbabilidades-C
+Horario: CalculodeProbabilidades-B, CalculoIntegral-B, FisicaII-C
+Horario: AlgebraLinealI-C, CalculoIntegral-C, CalculodeProbabilidades-C, FisicaII-D, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-B, CalculoIntegral-A, CalculodeProbabilidades-A, FisicaII-A, LogicayTeoriadeConjuntos-A
+Horario: AlgebraLinealI-A, CalculoIntegral-B, CalculodeProbabilidades-A, FisicaII-B, LogicayTeoriadeConjuntos-A
+Horario: CalculodeProbabilidades-B, FisicaII-B, CalculoIntegral-B
+Horario: CalculoIntegral-B, FisicaII-D, CalculodeProbabilidades-A
+Horario: CalculodeProbabilidades-B, FisicaII-B, CalculoIntegral-D
+Horario: CalculodeProbabilidades-C, CalculoIntegral-A, FisicaII-D
